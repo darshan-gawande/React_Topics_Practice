@@ -1,16 +1,12 @@
-
-import ComponentA from "./components/ComponentA";
-
-
+import { UseMemo } from "./UseMemo";
 
 function App() {
-
   return (
     <>
-    < ComponentA />
+    < UseMemo />
      
     </>
   )
 }
 
-export default App
+export default App;
