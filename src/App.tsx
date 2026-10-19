@@ -1,9 +1,9 @@
-import { UseMemo } from "./UseMemo";
+import { ControlledComponent } from "./components/ControlledComp";
 
 function App() {
   return (
     <>
-    < UseMemo />
+    < ControlledComponent />
      
     </>
   )
